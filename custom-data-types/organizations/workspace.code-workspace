@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../Go-test"
+		},
+		{
+			"path": "../../../../nodejs/ngs"
+		},
+		{
+			"path": "../../Go-Standard-Lib/cli-apps"
+		},
+		{
+			"path": "../../Go-Standard-Lib/custom-data-types"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../creating-web-services-go/02/demos/02/demos/inventory-mgmt"
+		},
+		{
+			"path": "../../webservice"
+		},
+		{
+			"path": "../../creating-web-services-go"
+		}
+	],
+	"settings": {}
+}
